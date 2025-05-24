@@ -1,4 +1,4 @@
-# `optimizeSimulinkWiring.m` の分析
+# Simulinkモデルの配線最適化
 
 ## 1. 概要
 
